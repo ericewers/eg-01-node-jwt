@@ -1,30 +1,6 @@
 # Example 1: Node.JS Service Integration
 
-Repository: [eg-01-node-jwt](https://github.com/docusign/eg-01-node-jwt)
-
-<!--
-## Articles and Screencasts
-
-* Guide: Using OAuth JWT flow with DocuSign.
-* Screencast: Using OAuth JWT flow with DocuSign.
-* Guide: Sending an envelope with the Node.JS SDK.
-* Screencast: Sending an example with Node.JS SDK.
--->
-
-## Screencasts
-
-A screencast for this launcher is available:
-
-* [Creating an Integration Key (a client id) for JWT authentication.][createIKvideo]
-
-[![Create IK video][createIKvideoThumb]][createIKvideo]
-
-
-[createIKvideo]:https://www.youtube.com/watch?v=55j4eZLK5Hg
-[installVideo]:https://www.youtube.com/watch?v=pqpj5j_oXU8
-[installVideoThumb]:https://raw.githubusercontent.com/docusign/eg-01-node-jwt/master/assets/Video_cover_Installing_JWT_Node_200.png
-[createIKvideoThumb]:https://raw.githubusercontent.com/docusign/eg-01-node-jwt/master/assets/Video_cover_creating_JWT_IK_200.png
-
+Original Repository: [eg-01-node-jwt](https://github.com/docusign/eg-01-node-jwt)
 
 ## Introduction
 
